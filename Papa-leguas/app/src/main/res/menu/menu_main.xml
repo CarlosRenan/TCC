@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.crdev.papaleguas.MainActivity"
+    android:theme="@style/toolBar_menu">
+    <group android:id="@+id/grupo_organizador">
+        <item
+            android:id="@+id/item_cadastrarcorrida"
+            android:orderInCategory="200"
+            android:title="@string/cadastrar_corrida"
+            app:showAsAction="never" />
+    </group>
+    <item
+        android:id="@+id/item_editarconta"
+        android:orderInCategory="300"
+        android:title="@string/item_editarconta"
+        app:showAsAction="never" />
+    <item android:id="@+id/item_sair"
+        android:title="Sair"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+    <item android:id="@+id/item_pesquisa"
+        android:title="Pesquisa"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"/>
+
+</menu>

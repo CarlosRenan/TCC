@@ -1,0 +1,24 @@
+<resources>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="app_name">Papaléguas</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se!</string>
+    <string name="eh_organizador">Você é um organizador de corridas?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Entrar</string>
+    <string name="data_nascimento">Data de nascimento:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="digite_o_nome">Digite o seu nome</string>
+    <string name="data_exemplo">01/01/1999</string>
+    <string name="digite_a_senha">Digite a senha que deseja</string>
+    <string name="digite_o_email">Digite o seu email</string>
+    <string name="descricao_imagem_logo">Uma logo do app com o nome e uma pessoa correndo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="item_editarconta">Alterar informações</string>
+    <string name="item_sair">Sair</string>
+    <string name="cadastrar_corrida">Cadastrar Corrida</string>
+</resources>

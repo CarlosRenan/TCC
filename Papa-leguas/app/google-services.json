@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "470325430766",
+    "firebase_url": "https://papa-leguas-1376.firebaseio.com",
+    "project_id": "papa-leguas-1376",
+    "storage_bucket": "papa-leguas-1376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470325430766:android:192bf5384cbe1966",
+        "android_client_info": {
+          "package_name": "com.crdev.papaleguas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470325430766-bff64o9fqog2dpun4s19bc84tjm6otp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oxN84cPQLOsNc2laJDVGczdClchOHEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
